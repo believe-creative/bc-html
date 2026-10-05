@@ -25,7 +25,7 @@
             ]
         }
     ]
-}0:{"buildId":"9cXnKpEvZXt1Ye8cUJux2","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"],null,"$L5"]}],"loading":null,"isPartial":false}
+}0:{"buildId":"QoO8eTp80ofKyRV0BWIXt","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"],null,"$L5"]}],"loading":null,"isPartial":false}
 7:Tb61,WordPress is a free and open-source content management system (CMS) written in PHP and paired with a MySQL or MariaDB database. Features include a plugin architecture and a template system, referred to within WordPress as Themes. WordPress was originally created as a blog-publishing system but has evolved to support other web content types including more traditional mailing lists and forums, media galleries, membership sites, learning management systems (LMS) and e-commerce websites using woo-commerce.<br><br>
 <h4>Themes</h4>
 WordPress users may install and switch among many different themes. Themes allow users to change the look and functionality of a WordPress website without altering the core code or site content. Every WordPress website requires at least one theme to be present.<br><br>

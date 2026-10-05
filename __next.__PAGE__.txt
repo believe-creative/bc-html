@@ -712,7 +712,7 @@
             ]
         }
     ]
-}0:{"buildId":"9cXnKpEvZXt1Ye8cUJux2","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"],null,"$L5"]}],"loading":null,"isPartial":false}
+}0:{"buildId":"QoO8eTp80ofKyRV0BWIXt","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"],null,"$L5"]}],"loading":null,"isPartial":false}
 7:T46a,<p>Its Halloween time folks, lets have fun by hunting some Ghosts. Ghost Blast AR is the next level of 3D Augmented Reality(AR) shooting game.</p>
 <p>The Halloween Ghosts surround you from all directions, they will try to hover around you and will try their best to attack you, all you need to do is defend yourself by aiming at the Ghosts by moving your mobile to your left or right and above or below and tap anywhere on the screen to shoot and kill them before they do and of course before the health or timer goes off.</p>
 

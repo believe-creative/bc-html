@@ -25,7 +25,7 @@
             ]
         }
     ]
-}0:{"buildId":"9cXnKpEvZXt1Ye8cUJux2","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"],null,"$L5"]}],"loading":null,"isPartial":false}
+}0:{"buildId":"QoO8eTp80ofKyRV0BWIXt","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"],null,"$L5"]}],"loading":null,"isPartial":false}
 7:T1917,The Unity game engine launched in 2005, aiming to "democratize" game development by making it accessible to more developers. The next year, Unity was named runner-up in the Best Use of Mac OS X Graphics category in Apple Inc.'s Apple Design Awards. Unity was initially released for Mac OS X, later adding support for Microsoft Windows and Web browsers.<br><br>
 
 <h4>Unity 2.0 (2007)</h4>

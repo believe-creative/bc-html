@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[2593,["241","static/chunks/24ace115-ad38804cbbb5b21f.js","907","static/chunks/907-1d0061127d24e48b.js","853","static/chunks/853-0b911a6229948bbb.js","698","static/chunks/app/%5Bpage%5D/page-f14e3559f3e383a7.js"],""]
-6:I[2408,["241","static/chunks/24ace115-ad38804cbbb5b21f.js","907","static/chunks/907-1d0061127d24e48b.js","853","static/chunks/853-0b911a6229948bbb.js","698","static/chunks/app/%5Bpage%5D/page-f14e3559f3e383a7.js"],"default"]
+2:I[2593,["241","static/chunks/24ace115-ad38804cbbb5b21f.js","907","static/chunks/907-1d0061127d24e48b.js","853","static/chunks/853-0b911a6229948bbb.js","698","static/chunks/app/%5Bpage%5D/page-948d7eaa415a0a80.js"],""]
+6:I[2408,["241","static/chunks/24ace115-ad38804cbbb5b21f.js","907","static/chunks/907-1d0061127d24e48b.js","853","static/chunks/853-0b911a6229948bbb.js","698","static/chunks/app/%5Bpage%5D/page-948d7eaa415a0a80.js"],"default"]
 1f:I[484,[],"OutletBoundary"]
 20:"$Sreact.suspense"
 3:Tcb60,{
@@ -712,7 +712,7 @@
             ]
         }
     ]
-}0:{"buildId":"9cXnKpEvZXt1Ye8cUJux2","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"],null,"$L5"]}],"loading":null,"isPartial":false}
+}0:{"buildId":"QoO8eTp80ofKyRV0BWIXt","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"],null,"$L5"]}],"loading":null,"isPartial":false}
 7:T46a,<p>Its Halloween time folks, lets have fun by hunting some Ghosts. Ghost Blast AR is the next level of 3D Augmented Reality(AR) shooting game.</p>
 <p>The Halloween Ghosts surround you from all directions, they will try to hover around you and will try their best to attack you, all you need to do is defend yourself by aiming at the Ghosts by moving your mobile to your left or right and above or below and tap anywhere on the screen to shoot and kill them before they do and of course before the health or timer goes off.</p>
 
